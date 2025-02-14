@@ -1,4 +1,4 @@
-import { Cordova, IonicNativePlugin, Plugin } from '@awesome-cordova-plugins/core/core';
+import { Cordova, IonicNativePlugin, Plugin } from '@awesome-cordova-plugins/core';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 
